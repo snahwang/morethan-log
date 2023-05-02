@@ -11,6 +11,13 @@ const CONFIG = {
     instagram: "",
   },
   
+  projects: [
+    {
+      name: `blog`,
+      href: "https://morethan-sunsun.vercel.app/",
+    },
+  ],
+  
   // blog setting (required)
   blog: {
     title: "mighty-horse",
