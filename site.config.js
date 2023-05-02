@@ -14,14 +14,14 @@ const CONFIG = {
   projects: [
     {
       name: `blog`,
-      href: "https://morethan-sunsun.vercel.app/",
+      href: "https://mighty-sunsun.vercel.app/",
     },
   ],
   
   // blog setting (required)
   blog: {
-    title: "mighty-horse",
-    description: "welcome to mighty horse blog!",
+    title: "mighty-sunsun",
+    description: "welcome to mighty sunsun blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
