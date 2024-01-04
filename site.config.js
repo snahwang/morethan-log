@@ -56,7 +56,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "snahwang/morethan-log",
       "issue-term": "og:title",
